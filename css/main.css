@@ -722,7 +722,7 @@ Section
   background-color: #fff;
 }
 
-@media (min-width: 500px) {
+@media (min-width: 1200px) {
   .intro {
     position: fixed;
   }
