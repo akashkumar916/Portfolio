@@ -188,7 +188,12 @@ h6,
   -webkit-box-shadow: none;
   box-shadow: none;
 }
-
+@media (max-width: 600px) {
+  video{
+    width:300px;
+    height:240px;
+  }
+}
 .btn.mobile-only {
   display: none;
 }
@@ -1034,12 +1039,7 @@ Section
     right: 0;
   }
 }
-@media (max-width: 600px) {
-  video{
-    width:320px;
-    height:240px;
-  }
-}
+
 
 @media (max-width: 767px) {
   .timeline-content .time {
