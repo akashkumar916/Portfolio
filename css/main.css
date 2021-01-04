@@ -1034,6 +1034,12 @@ Section
     right: 0;
   }
 }
+@media only screen and (max-width: 767px) {
+  video{
+    width:320;
+    height:240;
+  }
+}
 
 @media (max-width: 767px) {
   .timeline-content .time {
