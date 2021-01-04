@@ -1034,10 +1034,10 @@ Section
     right: 0;
   }
 }
-@media only screen and (max-width: 767px) {
+@media (max-width: 600px) {
   video{
-    width:320;
-    height:240;
+    width:320px;
+    height:240px;
   }
 }
 
