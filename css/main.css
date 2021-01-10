@@ -190,14 +190,14 @@ h6,
 }
 @media (max-width: 600px) {
   video{
-    width:330px;
-    height:270px;
+    width:350px;
+    height:290px;
   }
   
 }
 @media (max-width: 600px) {
   iframe{
-    width:350px;
+    width:380px;
     height:80px;
   }
   
