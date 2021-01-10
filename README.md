@@ -21,6 +21,6 @@ I initiated this project as Personal Portfolio website. But it is much more than
 
  3. **Create a pull request** <br>
  It can't get better then this, your pull request will be appreciated by the community. You can get started by picking up any open issues from [here](https://github.com/akashkumar916/Portfolio/issues) and make a pull request.
- 
 
+#### View my Portfolio : <a href="https://akashkumar916.github.io/Portfolio" target="_blank">here</a>
 
