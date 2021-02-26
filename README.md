@@ -1,6 +1,6 @@
 <div align=center>
 
-[![Open Issues](https://img.shields.io/github/issues/akashkumar916/Portfolio?style=for-the-badge&logo=github)](https://github.com/akashkumar916/Portfolio/issues) [![Forks](https://img.shields.io/github/forks/akashkumar916/Portfolio?style=for-the-badge&logo=github)](https://github.com/akashkumar916/Portfolio/network/members) [![Stars](https://img.shields.io/github/stars/akashkumar916/Portfolio?style=for-the-badge&logo=reverbnation)](https://github.com/code-monk08/connect-four/stargazers) ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%99%A5-red?style=for-the-badge&logo=open-source-initiative) ![Built with Love](https://img.shields.io/badge/Built%20With-%E2%99%A5-critical?style=for-the-badge&logo=ko-fi)
+[![Open Issues](https://img.shields.io/github/issues/akashkumar916/Portfolio?style=for-the-badge&logo=github)](https://github.com/akashkumar916/Portfolio/issues) [![Forks](https://img.shields.io/github/forks/akashkumar916/Portfolio?style=for-the-badge&logo=github)](https://github.com/akashkumar916/Portfolio/network/members) [![Stars](https://img.shields.io/github/stars/akashkumar916/Portfolio?style=for-the-badge&logo=reverbnation)](https://github.com/akashkumar916?tab=stars) ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%99%A5-red?style=for-the-badge&logo=open-source-initiative) ![Built with Love](https://img.shields.io/badge/Built%20With-%E2%99%A5-critical?style=for-the-badge&logo=ko-fi)
 
 </div>
 
