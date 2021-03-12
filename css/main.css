@@ -76,9 +76,7 @@ a:focus {
   color: #03af60;
   text-decoration: none;
 }
-input:focus {
-    color: #000000;
-}
+
 a:focus {
   outline: 0;
 }
@@ -1315,11 +1313,14 @@ Section
 
 .form-control,
 .form-control:focus {
-  color: #999;
+  color: 	#000000;
   border-color: #e1e1e1;
   -webkit-box-shadow: none;
   box-shadow: none;
   -webkit-appearance: none;
+}
+form input:focus{
+  color: 	#000000;
 }
 
 .form-control {
@@ -1333,6 +1334,7 @@ Section
   background-color: transparent;
   padding: 10px 0;
 }
+
 
 .form-control::-webkit-input-placeholder {
   color: currentColor;
