@@ -76,7 +76,9 @@ a:focus {
   color: #03af60;
   text-decoration: none;
 }
-
+input:focus {
+    color: #000000;
+}
 a:focus {
   outline: 0;
 }
